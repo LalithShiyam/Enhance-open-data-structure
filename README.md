@@ -1,4 +1,4 @@
-# 🌐 Total-Body PET/CT Dataset Standardization
+# 🌐 ENHANCE: Total-Body PET/CT Dataset Standardization
 
 At MedUniWien, we've taken steps to standardize our Total-Body PET/CT datasets. In our efforts to contribute to the open-source initiative, we present this as a proposed standard. It's designed to ensure easy navigation, consistent representation, and programmable data retrieval.
 
